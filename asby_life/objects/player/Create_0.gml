@@ -12,3 +12,6 @@ walking = false;
 talking = false;
 room_changing = false;
 menuing = false;
+
+//enviroment flags
+door = noone;

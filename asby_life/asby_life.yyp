@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0fb2b2c5-bbf0-4af8-b2e3-28866ede8185",
+            "Value": {
+                "id": "640970ff-f100-4aba-aec6-d5c84181591c",
+                "resourcePath": "rooms\\title\\title.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "15de8b3a-acc4-4975-847c-083d43e00728",
             "Value": {
                 "id": "ffa2ae5f-3654-44f9-b0c5-cf8b2bbae2e5",
@@ -47,6 +55,14 @@
             }
         },
         {
+            "Key": "2348774c-5a69-4383-9efc-082650f4d02d",
+            "Value": {
+                "id": "b146d1da-ae39-462c-a2b0-f16ccd390f4e",
+                "resourcePath": "objects\\door_parent\\door_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "255e4cdd-0dba-4323-9f39-37e75772034c",
             "Value": {
                 "id": "a96fc800-7476-4997-a12b-8b2646427523",
@@ -60,6 +76,22 @@
                 "id": "99feccf4-1d7d-4175-90e8-5496f688b26e",
                 "resourcePath": "sprites\\debug\\debug.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "32edeb8c-abd9-46e9-9129-64298f225d80",
+            "Value": {
+                "id": "7eaa946d-cf94-41a7-b6f3-9555ec3c014f",
+                "resourcePath": "objects\\manual\\manual.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "34f06ed7-d03d-4fb0-87b6-bf7920b08a31",
+            "Value": {
+                "id": "e95fc35b-e322-41e8-89d4-1ac7f6cbb182",
+                "resourcePath": "scripts\\get_door_destination\\get_door_destination.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -130,7 +162,7 @@
             "Key": "76b78410-719c-4e20-aaaa-fae9c6dad0b7",
             "Value": {
                 "id": "1f01e69b-c3cb-4413-8c14-c721a0b16918",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\outdoors\\outdoors.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -264,7 +296,7 @@
         }
     ],
     "script_order": [
-        
+        "34f06ed7-d03d-4fb0-87b6-bf7920b08a31"
     ],
     "tutorial": ""
 }
